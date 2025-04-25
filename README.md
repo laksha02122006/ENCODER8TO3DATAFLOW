@@ -73,6 +73,8 @@ RegisterNumber: 212224220051
 
 **RESULTS**
 
+Thus to implement Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables is verified.
+
 
 
 
